@@ -1,0 +1,15 @@
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.exe
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.deps.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.runtimeconfig.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.pdb
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfo.cs
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.sourcelink.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\refint\EntradaDeDados.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.pdb
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.genruntimeconfig.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\ref\EntradaDeDados.dll

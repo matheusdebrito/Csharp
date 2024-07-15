@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EntradaDeDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C39888D6-50F4-43C7-8147-F536D5E8BE7B}|EntradaDeDados\\EntradaDeDados.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - exercicios\\entradadedados\\entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39888D6-50F4-43C7-8147-F536D5E8BE7B}|EntradaDeDados\\EntradaDeDados.csproj|solutionrelative:entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EntradaDeDados\\EntradaDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "EntradaDeDados\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EntradaDeDados\\EntradaDeDados\\Program.cs",
+              "RelativeToolTip": "EntradaDeDados\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:42:39.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
