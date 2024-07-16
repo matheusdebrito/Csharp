@@ -1,4 +1,5 @@
 # Funções
+
 \\ Declaramos a função dentro da class Program após a função static void main
 
 ```c#
@@ -45,5 +46,5 @@ namespace Aula
     }
 }
 ```
-# Fim Funções
 
+# Fim Funções

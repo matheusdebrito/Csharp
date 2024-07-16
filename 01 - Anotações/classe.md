@@ -1,7 +1,7 @@
 # Criando uma classe com 3 atributos para representar um triângulo
+
 Clica com botão direito no projeto > adicionar > classe. O nome das classes deve começar com letra maiúscula.
 
-# Código da classe.
 ````c#
 namespace Aula
 {
@@ -64,4 +64,3 @@ namespace Aula
 
 
 ```
-# Fim
