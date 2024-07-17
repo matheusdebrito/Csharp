@@ -10,10 +10,37 @@ namespace Aula
 {
     internal class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; } 
 
+        // Construtor
+        public Produto(string nome, double preco, int quantidade)
+        {
+            _nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        } 
+
+        // Construtor padrão
+        public Produto() { }
+
+        // Properties
+        public string Nome 
+        {
+            get { return _nome; }
+            set 
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+                else
+                {
+                    Console.WriteLine("Erro! O nome digitado não atende aos padrões");
+                }
+            }
+        }        
 
         public double ValorTotalEmEstoque()
         {
@@ -32,7 +59,7 @@ namespace Aula
         }
 
         public override string ToString() {
-            return ($"Nome: {Nome}, Preço: $ {Preco}, Quantidade: {Quantidade}, Valor total: {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
+            return ($"Nome: {_nome}, Preço: $ {Preco}, Quantidade: {Quantidade}, Valor total: {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
         }
     }
 }
