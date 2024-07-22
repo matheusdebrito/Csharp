@@ -1,0 +1,15 @@
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.AssemblyInfo.cs
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.sourcelink.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.exe
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.deps.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.runtimeconfig.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.pdb
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\refint\ExercicioVetores.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.pdb
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.genruntimeconfig.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ref\ExercicioVetores.dll

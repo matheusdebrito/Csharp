@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\ExercicioVetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCAF8C0-4F10-4FEF-A76B-B7E98F14110E}|ExercicioVetores\\ExercicioVetores.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - exercicios\\exerciciovetores\\exerciciovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCAF8C0-4F10-4FEF-A76B-B7E98F14110E}|ExercicioVetores\\ExercicioVetores.csproj|solutionrelative:exerciciovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCAF8C0-4F10-4FEF-A76B-B7E98F14110E}|ExercicioVetores\\ExercicioVetores.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - exercicios\\exerciciovetores\\exerciciovetores\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCAF8C0-4F10-4FEF-A76B-B7E98F14110E}|ExercicioVetores\\ExercicioVetores.csproj|solutionrelative:exerciciovetores\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quarto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\ExercicioVetores\\ExercicioVetores\\Quarto.cs",
+              "RelativeDocumentMoniker": "ExercicioVetores\\Quarto.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\ExercicioVetores\\ExercicioVetores\\Quarto.cs",
+              "RelativeToolTip": "ExercicioVetores\\Quarto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:46:45.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\ExercicioVetores\\ExercicioVetores\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioVetores\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\ExercicioVetores\\ExercicioVetores\\Program.cs",
+              "RelativeToolTip": "ExercicioVetores\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:43:11.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
