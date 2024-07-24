@@ -55,3 +55,37 @@ namespace Aula
     }
 }
 ````
+
+# Comandos
+
+Add => Adiciona itens ao final da lista
+Insert => Adiciona itens em uma determinada posição da lista e empurra o intem que estava na determinada posição para baixo
+Count => Exibe o tamanho da lista
+Find | FindLast => Encontrar o primeiro ou o último item da lista que satisfaça um predicado.
+FindIndex | FindLastIndex => Encontrar a primeira ou última posição do elemento da lista que satisfaça um predicado
+FindAdll => Filtra a lista com base em um predicado
+Remove => Remove um item da lista
+RemoveAll => Remove todos os itens que satisfaçam um predicado
+RemoveAt => Remove um elemento pela sua posição
+RemoveIndex => Remove os elementos de uma faixa
+
+````c#
+list.Add("Matheus");
+
+list.Insert(2, "Marco"); // Adiciona "Marco" no índice 2 da lista
+
+Console.WriteLine(list.Count);
+
+string s1 = list.Find(x => x == "Alex");
+
+int s2 = list.FindIndex(x => x[0] == 'A');
+
+List<string> nomes = new List<string>();
+nomes = list.FindAll(x => x[0] == 'M');
+
+list.Remove("Alex");
+
+list.RemoveAll(x => x[0] == 'J');
+
+list.RemoveRange(0, 2); // Remove dois itens contando a partir da posição 0
+````
