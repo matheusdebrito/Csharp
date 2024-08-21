@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Anota\u00E7\u00F5es\\06-Enumera\u00E7\u00E3o e Composi\u00E7\u00E3o\\Enums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F66C48-7A2C-4C62-85B9-C4DAB8C29187}|Enums\\Enums.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - anota\u00E7\u00F5es\\06-enumera\u00E7\u00E3o e composi\u00E7\u00E3o\\enums\\enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F66C48-7A2C-4C62-85B9-C4DAB8C29187}|Enums\\Enums.csproj|solutionrelative:enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F66C48-7A2C-4C62-85B9-C4DAB8C29187}|Enums\\Enums.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - anota\u00E7\u00F5es\\06-enumera\u00E7\u00E3o e composi\u00E7\u00E3o\\enums\\enums\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F66C48-7A2C-4C62-85B9-C4DAB8C29187}|Enums\\Enums.csproj|solutionrelative:enums\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F66C48-7A2C-4C62-85B9-C4DAB8C29187}|Enums\\Enums.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - anota\u00E7\u00F5es\\06-enumera\u00E7\u00E3o e composi\u00E7\u00E3o\\enums\\enums\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F66C48-7A2C-4C62-85B9-C4DAB8C29187}|Enums\\Enums.csproj|solutionrelative:enums\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Anota\u00E7\u00F5es\\06-Enumera\u00E7\u00E3o e Composi\u00E7\u00E3o\\Enums\\Enums\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enums\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Anota\u00E7\u00F5es\\06-Enumera\u00E7\u00E3o e Composi\u00E7\u00E3o\\Enums\\Enums\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Enums\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:44:33.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "order.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Anota\u00E7\u00F5es\\06-Enumera\u00E7\u00E3o e Composi\u00E7\u00E3o\\Enums\\Enums\\Entities\\order.cs",
+              "RelativeDocumentMoniker": "Enums\\Entities\\order.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Anota\u00E7\u00F5es\\06-Enumera\u00E7\u00E3o e Composi\u00E7\u00E3o\\Enums\\Enums\\Entities\\order.cs",
+              "RelativeToolTip": "Enums\\Entities\\order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:41:04.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Anota\u00E7\u00F5es\\06-Enumera\u00E7\u00E3o e Composi\u00E7\u00E3o\\Enums\\Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Enums\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Anota\u00E7\u00F5es\\06-Enumera\u00E7\u00E3o e Composi\u00E7\u00E3o\\Enums\\Enums\\Program.cs",
+              "RelativeToolTip": "Enums\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:33:14.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

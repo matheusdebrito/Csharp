@@ -1,7 +1,7 @@
 # Variáveis tipo referência
 Variáveis cujo tipo são classes não devem ser entendidas como caixas, mas sim "tentáculos" (ponteiros) para caixas.
 
-Ao criar uma variável e não e instanciala ela apenas ocupa um lugar na Stack. Ex:
+Ao criar uma variável e não e instancia-la ela apenas ocupa um lugar na Stack. Ex:
 
 ```c#
 Product p1;
