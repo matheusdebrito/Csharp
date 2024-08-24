@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - exercicios\\enumeracaocomposicao\\enumeracaocomposicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|solutionrelative:enumeracaocomposicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - exercicios\\enumeracaocomposicao\\enumeracaocomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|solutionrelative:enumeracaocomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - exercicios\\enumeracaocomposicao\\enumeracaocomposicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|solutionrelative:enumeracaocomposicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - exercicios\\enumeracaocomposicao\\enumeracaocomposicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|solutionrelative:enumeracaocomposicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|c:\\users\\matheus\\documents\\github\\csharp\\01 - exercicios\\enumeracaocomposicao\\enumeracaocomposicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42E630-2E76-4FCA-82F9-9C9570024006}|EnumeracaoComposicao\\EnumeracaoComposicao.csproj|solutionrelative:enumeracaocomposicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "EnumeracaoComposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Program.cs",
+              "RelativeToolTip": "EnumeracaoComposicao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:06:29.967Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "EnumeracaoComposicao\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Entities\\Worker.cs",
+              "RelativeToolTip": "EnumeracaoComposicao\\Entities\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:17:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "EnumeracaoComposicao\\Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "EnumeracaoComposicao\\Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:18:44.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "EnumeracaoComposicao\\Entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Entities\\HourContract.cs",
+              "RelativeToolTip": "EnumeracaoComposicao\\Entities\\HourContract.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:13:41.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EnumeracaoComposicao\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\matheus\\Documents\\GitHub\\csharp\\01 - Exercicios\\EnumeracaoComposicao\\EnumeracaoComposicao\\Entities\\Department.cs",
+              "RelativeToolTip": "EnumeracaoComposicao\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:10:41.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

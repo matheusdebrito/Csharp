@@ -1,0 +1,15 @@
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.exe
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.deps.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.runtimeconfig.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\bin\Debug\net8.0\EnumeracaoComposicao.pdb
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.AssemblyInfoInputs.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.AssemblyInfo.cs
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.sourcelink.json
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\refint\EnumeracaoComposicao.dll
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.pdb
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\EnumeracaoComposicao.genruntimeconfig.cache
+C:\Users\matheus\Documents\GitHub\csharp\01 - Exercicios\EnumeracaoComposicao\EnumeracaoComposicao\obj\Debug\net8.0\ref\EnumeracaoComposicao.dll
