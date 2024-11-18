@@ -1,0 +1,2 @@
+Upcasting é o casting da subclasse para a superclasse. Uso comum: polimorfismo
+Downcasting é o casting da superclasse para a subclasse. Palavra as, palavra is. Uso comum: métodos que recebem parâmetros genéricos (ex: Equals)

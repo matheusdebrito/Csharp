@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringBuilderSB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f250d0c71d9ead74d7ec0347029da89c9c1878")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42780ff37f5acccb3988b600b4ae2fe2e9a0152c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringBuilderSB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringBuilderSB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

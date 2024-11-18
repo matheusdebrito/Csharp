@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\GitHub\\csharp\\Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7304D2-0281-4561-AB26-18AAF68398E2}|Heranca\\Heranca.csproj|c:\\users\\matheus\\documents\\github\\csharp\\heranca\\heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7304D2-0281-4561-AB26-18AAF68398E2}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7304D2-0281-4561-AB26-18AAF68398E2}|Heranca\\Heranca.csproj|c:\\users\\matheus\\documents\\github\\csharp\\heranca\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7304D2-0281-4561-AB26-18AAF68398E2}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7304D2-0281-4561-AB26-18AAF68398E2}|Heranca\\Heranca.csproj|c:\\users\\matheus\\documents\\github\\csharp\\heranca\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7304D2-0281-4561-AB26-18AAF68398E2}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\GitHub\\csharp\\Heranca\\Heranca\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Heranca\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\GitHub\\csharp\\Heranca\\Heranca\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Heranca\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:31:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\GitHub\\csharp\\Heranca\\Heranca\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Heranca\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\GitHub\\csharp\\Heranca\\Heranca\\Entities\\Account.cs",
+              "RelativeToolTip": "Heranca\\Entities\\Account.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:28:28.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\GitHub\\csharp\\Heranca\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\GitHub\\csharp\\Heranca\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:22:05.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
