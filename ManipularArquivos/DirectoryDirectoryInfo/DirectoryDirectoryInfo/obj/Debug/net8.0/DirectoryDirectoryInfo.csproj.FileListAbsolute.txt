@@ -1,0 +1,15 @@
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.exe
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.deps.json
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.runtimeconfig.json
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.dll
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.pdb
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.AssemblyInfo.cs
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.sourcelink.json
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.dll
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\refint\DirectoryDirectoryInfo.dll
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.pdb
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.genruntimeconfig.cache
+C:\Users\Matheus\Documents\GitHub\csharp\ManipularArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\ref\DirectoryDirectoryInfo.dll

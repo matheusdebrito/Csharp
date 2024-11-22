@@ -1,0 +1,15 @@
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\bin\Debug\net8.0\ExcecaoPersonalizada.exe
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\bin\Debug\net8.0\ExcecaoPersonalizada.deps.json
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\bin\Debug\net8.0\ExcecaoPersonalizada.runtimeconfig.json
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\bin\Debug\net8.0\ExcecaoPersonalizada.dll
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\bin\Debug\net8.0\ExcecaoPersonalizada.pdb
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ExcecaoPersonalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ExcecaoPersonalizada.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ExcecaoPersonalizada.AssemblyInfo.cs
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ExcecaoPersonalizada.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ExcecaoPersonalizada.sourcelink.json
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ExcecaoPersonalizada.dll
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\refint\ExcecaoPersonalizada.dll
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ExcecaoPersonalizada.pdb
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ExcecaoPersonalizada.genruntimeconfig.cache
+C:\Users\Matheus\Documents\GitHub\csharp\02 - Exercicios\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\net8.0\ref\ExcecaoPersonalizada.dll

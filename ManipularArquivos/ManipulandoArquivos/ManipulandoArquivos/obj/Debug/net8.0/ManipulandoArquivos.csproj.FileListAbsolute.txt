@@ -1,0 +1,15 @@
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\bin\Debug\net8.0\ManipulandoArquivos.exe
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\bin\Debug\net8.0\ManipulandoArquivos.deps.json
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\bin\Debug\net8.0\ManipulandoArquivos.runtimeconfig.json
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\bin\Debug\net8.0\ManipulandoArquivos.dll
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\bin\Debug\net8.0\ManipulandoArquivos.pdb
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ManipulandoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ManipulandoArquivos.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ManipulandoArquivos.AssemblyInfo.cs
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ManipulandoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ManipulandoArquivos.sourcelink.json
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ManipulandoArquivos.dll
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\refint\ManipulandoArquivos.dll
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ManipulandoArquivos.pdb
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ManipulandoArquivos.genruntimeconfig.cache
+C:\Users\Matheus\Documents\GitHub\csharp\ManipulandoArquivos\ManipulandoArquivos\obj\Debug\net8.0\ref\ManipulandoArquivos.dll
