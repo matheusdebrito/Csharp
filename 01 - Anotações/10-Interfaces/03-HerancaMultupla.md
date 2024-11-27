@@ -1,0 +1,1 @@
+Uma classe não pode herder de mais de uma classe. Em situações assim o comum é usar interfaces. Uma classe pode cumprir mais de uma interface.

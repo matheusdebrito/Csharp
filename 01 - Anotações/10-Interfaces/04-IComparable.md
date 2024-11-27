@@ -1,0 +1,1 @@
+IComparable é a interface padrão da linguagem para comparar se um objeto de um determinado tipo é comparável com outro (maior, menor ou igual ao outro).
