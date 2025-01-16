@@ -12,3 +12,4 @@ foreach(string obj in vect){
 
 Percorrerá todo o vetor e irá imprimir todos os itens do vetor.
 "obj" é apenas um apelido. Pode ter o nome que você desejar.
+
